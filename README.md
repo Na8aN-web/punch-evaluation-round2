@@ -2,7 +2,7 @@ Hi I'm Nathan Kaduru and this is the source code for my Punch application Round 
 
 The task required was to recreate the design in the figma link (https://www.figma.com/design/UPbj7PEXjxnHihtcxCkeOK/Punch-Assignment-(Copy)?node-id=1-254&t=XxwMHS6C8Euoyagv-0)
 
-The page was implemented using React.js and was styled with Tailwind.css, I made use of advanced React.js concepts, such as hooks, state management libraries (e.g., Redux Toolkit) to enhance the functionality and user experience of the landing page
+The page was implemented using React.js and was styled with Tailwind.css, I used Tailwind to style the page because it's a framework I've grown very used to, it's lightweight, fast and incredibly easy to work with, I also made use of advanced React.js concepts, such as hooks, state management libraries (e.g., Redux Toolkit) to enhance the functionality and user experience of the landing page, I used Redux Toolkit to handle state management because it simplifies the setup and maintenance of Redux and gives a better developer experience in managing data in the application.
 
 In the project directory, you can run:
 
