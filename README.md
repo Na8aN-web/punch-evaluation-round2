@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+Hi I'm Nathan Kaduru and this is the source code for my Punch application Round 2!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The task required was to recreate the design in the figma link (https://www.figma.com/design/UPbj7PEXjxnHihtcxCkeOK/Punch-Assignment-(Copy)?node-id=1-254&t=XxwMHS6C8Euoyagv-0)
 
-## Available Scripts
+The page was implemented using React.js and was styled with Tailwind.css, I made use of advanced React.js concepts, such as hooks, state management libraries (e.g., Redux Toolkit) to enhance the functionality and user experience of the landing page
 
 In the project directory, you can run:
 
